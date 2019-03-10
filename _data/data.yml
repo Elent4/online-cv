@@ -46,7 +46,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: I am a third-year Undergraduate Student at Ionian University Department 
+    summary: |
+      I am a third-year Undergraduate Student at Ionian University Department 
       of Informatics. During my degree, i have developed a satisfactorily skills 
       in some basic programming languages like C, C++, Java and Python and Databases 
       and still learning about these.
@@ -75,7 +76,8 @@ education:
     - degree: Undergraduate Student
       university: Ionian University
       time: 2016 - Present
-      details: Department of informatics
+      details: |
+        Department of informatics
         #Describe your study here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         #sociis natoque penatibus et magnis dis parturient montes, nascetur
